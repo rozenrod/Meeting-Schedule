@@ -1,1 +1,1 @@
-Описание программы https://rozenrod.github.io/Meeting-Schedule/
+Описание программы https://rozenrod.github.io/project/Meeting_Schedule/
